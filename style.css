@@ -214,7 +214,7 @@ footer p{
 .dot {
 	height: 5px;
 	width: 5px;
-	background-color: #bbb;
+	background-color: black;
 	border-radius: 50%;
 	display: inline-block;
 	margin-bottom: 5px;
