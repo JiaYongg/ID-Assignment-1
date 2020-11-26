@@ -137,7 +137,7 @@ article{
 .grid-box:hover .overlay {
 	bottom: 0;
 	height: 100%;
-	opacity: 2;
+	opacity: 1;
 }
 .grid-box .text {
 	color: white;
@@ -145,8 +145,6 @@ article{
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	-webkit-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
 	transform: translate(-50%, -50%);
 	text-align: center;
 	background-color: darkslateblue;
@@ -213,6 +211,15 @@ footer p{
 	text-decoration: none; 
 	width: 60px;  
 } 
+.dot {
+	height: 5px;
+	width: 5px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	margin-bottom: 5px;
+	margin-left: 5px;
+  }
 /* Media Query */ 
 @media all and (max-width: 1024px){
 	.main_menu li a { 
