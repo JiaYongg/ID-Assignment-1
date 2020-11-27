@@ -221,7 +221,7 @@ footer p{
 	margin-left: 5px;
   }
 /* Media Query */ 
-@media all and (max-width: 1024px){
+@media screen and (max-width: 1024px){
 	.main_menu li a { 
 		padding: 14px 10px;
 	}
@@ -237,7 +237,7 @@ footer p{
 		width: 50%; 
 	}
 } 
-@media all and (max-width: 820px){
+@media screen and (max-width: 820px){
 	#menuToggler{
 		margin: 10px auto; 
 		height: 30px;
@@ -308,7 +308,7 @@ footer p{
 	}
 
 } 
-@media all and (max-width: 569px){
+@media screen and (max-width: 569px){
 	.musicvideo iframe{ 
 		height:285px; 
 	}
@@ -320,7 +320,7 @@ footer p{
 	}
 }
 
-@media all and (max-width: 400px){
+@media screen and (max-width: 400px){
 	.products-col-3 .item{
 		width: calc(100% - 30px); 
 		padding: 15px;
