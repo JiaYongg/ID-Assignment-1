@@ -73,13 +73,16 @@ https://kprofiles.com/idle-members-profile/
 
 # Media
 The photos used in this site were obtained from :
-
+# Members Page Background image
 https://www.allure.com/story/gi-dle-k-pop-beauty-interview
 
+# Album Page Background image
 https://www.forbes.com/sites/jeffbenjamin/2020/05/14/g-i-dle-latata-english-version-single-listen-review-international-advancement/?sh=56ff3b515d78
 
+# Home Page Background image
 http://www.mtv.com/news/3162473/gi-dle-interview-oh-my-god-soyeon-i-trust/
 
+# Members Page Individual Member image
 https://www.soompi.com/article/1413251wpp/gi-dle-unveils-details-for-summer-comeback-with-dumdi-dumdi
 
 # Acknowledgment
@@ -87,3 +90,8 @@ https://www.soompi.com/article/1413251wpp/gi-dle-unveils-details-for-summer-come
 I received inspiration for this project from :
 
 https://kprofiles.com/idle-members-profile/
+
+# Github Link and Repository
+
+Repository: https://github.com/JiaYongg/ID-Assignment-1
+Link: https://jiayongg.github.io/ID-Assignment-1/
